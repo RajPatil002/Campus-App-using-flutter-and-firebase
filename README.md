@@ -1,4 +1,4 @@
-# Campus App using Flutter and Firebase
+# Campus App using Flutter and Firebase &nbsp;&nbsp;<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code>&nbsp;&nbsp;<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
 
 The Campus App is a mobile application developed using Flutter and Firebase, designed to provide a comprehensive platform for both students and teachers in the college. The app offers separate modules for students and teachers, along with an admin module for administrative tasks. It facilitates attendance marking, event notifications, result checking, timetable viewing, accessing syllabus and notes in a PDF viewer, and private/group messaging within the college community.
 
