@@ -4,7 +4,7 @@ The Campus App is a mobile application developed using Flutter and Firebase, des
 
 ## Main Features
 
-### Student Module
+### Student Section
 - **View Attendance:** Students can view their attendance records for classes through the app.
 - **Event Notifications:** Students receive real-time notifications about college events, workshops, seminars, and important announcements.
 - **View Results:** Students can check their exam results directly within the app, making it convenient to stay updated on academic performance.
@@ -12,7 +12,7 @@ The Campus App is a mobile application developed using Flutter and Firebase, des
 - **View Syllabus & Notes:** Students can access and view syllabus and  notes, study materials, and important documents in PDF format using the integrated PDF viewer.
 - **Private and Group Messaging:** Students can communicate with other students and teachers through private and group messaging features.
 
-### Teacher Module
+### Teacher Section
 - **Attendance Management:** Teachers can view and manage student attendance records for their respective courses.
 - **Event Notifications:** Teachers send notifications about college events, workshops, seminars, and administrative announcements.
 - **Result Entry:** Teachers can enter and update student exam results for their courses.
@@ -20,7 +20,7 @@ The Campus App is a mobile application developed using Flutter and Firebase, des
 - **Notes Upload:** Teachers can upload and share notes and study materials in PDF format for students to access.
 - **Private and Group Messaging:** Teachers can communicate with individual students or groups of students using private and group messaging features.
 
-### Admin Module
+### Admin Section
 - **Account Management:** Admins can add and manage student and teacher accounts within the app, assigning them to their respective departments.
 - **Excel Integration:** Admins can bulk import student and teacher data using Excel files, streamlining the account creation process.
 
